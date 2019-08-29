@@ -7,7 +7,7 @@ function Nav() {
         Search Books
       </a>
       <a className="navbar-brand" href="/saved">
-        My Lirary
+        My Library
       </a>
 
     </nav>
